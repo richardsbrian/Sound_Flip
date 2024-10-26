@@ -2,6 +2,8 @@
 
 This is a Python-based GUI application that allows you to reverse audio files, with options to play both the original and reversed versions. Built using `Tkinter` for the GUI, `pydub` for audio processing, and `pygame` for playback, this project demonstrates audio file handling and a simple yet functional GUI for an interactive user experience.
 
+![Audio Reversal Tool Screenshot](image/app_image.png)
+
 ## Features
 
 - **Reverse Audio Files**: Choose any `.wav` or `.mp3` file, and the app will reverse the audio and save it as a new file.
